@@ -1,0 +1,554 @@
+CVE-2005-3660: Fix unknown
+CVE-2007-3719: Fix unknown
+CVE-2008-2544: Fix unknown
+CVE-2008-4609: Fix unknown
+CVE-2010-4563: Fix unknown
+CVE-2010-5321: Fix unknown
+CVE-2011-4917: Fix unknown
+CVE-2012-4542: Fix unknown
+CVE-2013-7445: Fix unknown
+CVE-2015-2877: Fix unknown
+CVE-2016-10723: Fix not seen in stream
+CVE-2016-2188: Fixed with 4.10.4
+CVE-2016-8660: Fix unknown
+CVE-2016-9604: Fixed with 4.10.13
+CVE-2017-0605: Fix not seen in stream
+CVE-2017-0627: Fix not seen in stream
+CVE-2017-0786: Fix not seen in stream
+CVE-2017-0861: Fix not seen in stream
+CVE-2017-1000: Fix not seen in stream
+CVE-2017-1000111: Fix not seen in stream
+CVE-2017-1000112: Fix not seen in stream
+CVE-2017-1000251: Fix not seen in stream
+CVE-2017-1000252: Fix not seen in stream
+CVE-2017-1000255: Fix not seen in stream
+CVE-2017-1000363: Fix not seen in stream
+CVE-2017-1000364: Fix not seen in stream
+CVE-2017-1000365: Fix not seen in stream
+CVE-2017-1000370: Fix not seen in stream
+CVE-2017-1000371: Fix not seen in stream
+CVE-2017-1000379: Fix not seen in stream
+CVE-2017-1000380: Fix not seen in stream
+CVE-2017-1000405: Fix not seen in stream
+CVE-2017-1000407: Fix not seen in stream
+CVE-2017-1000410: Fix not seen in stream
+CVE-2017-10661: Fixed with 4.10.15
+CVE-2017-10662: Fixed with 4.10.16
+CVE-2017-10663: Fix not seen in stream
+CVE-2017-10810: Fix not seen in stream
+CVE-2017-10911: Fix not seen in stream
+CVE-2017-11089: Fix not seen in stream
+CVE-2017-11176: Fix not seen in stream
+CVE-2017-11472: Fix not seen in stream
+CVE-2017-11473: Fix not seen in stream
+CVE-2017-11600: Fix not seen in stream
+CVE-2017-12134: Fix not seen in stream
+CVE-2017-12146: Fix not seen in stream
+CVE-2017-12153: Fix not seen in stream
+CVE-2017-12154: Fix not seen in stream
+CVE-2017-12188: Fix not seen in stream
+CVE-2017-12190: Fix not seen in stream
+CVE-2017-12192: Fix not seen in stream
+CVE-2017-12193: Fix not seen in stream
+CVE-2017-12762: Fix not seen in stream
+CVE-2017-13080: Fix not seen in stream
+CVE-2017-13166: Fix not seen in stream
+CVE-2017-13168: Fix not seen in stream
+CVE-2017-13216: Fix not seen in stream
+CVE-2017-13305: Fix not seen in stream
+CVE-2017-13693: Fix unknown
+CVE-2017-13694: Fix unknown
+CVE-2017-13695: Fix not seen in stream
+CVE-2017-14051: Fix not seen in stream
+CVE-2017-14106: Fix not seen in stream
+CVE-2017-14140: Fix not seen in stream
+CVE-2017-14156: Fix not seen in stream
+CVE-2017-14340: Fix not seen in stream
+CVE-2017-14489: Fix not seen in stream
+CVE-2017-14497: Fix not seen in stream
+CVE-2017-14991: Fix not seen in stream
+CVE-2017-15115: Fix not seen in stream
+CVE-2017-15129: Fix not seen in stream
+CVE-2017-15265: Fix not seen in stream
+CVE-2017-15274: Fix not seen in stream
+CVE-2017-15299: Fix not seen in stream
+CVE-2017-15306: Fix not seen in stream
+CVE-2017-15537: Fix not seen in stream
+CVE-2017-15649: Fix not seen in stream
+CVE-2017-15951: Fix not seen in stream
+CVE-2017-16525: Fix not seen in stream
+CVE-2017-16526: Fix not seen in stream
+CVE-2017-16527: Fix not seen in stream
+CVE-2017-16528: Fix not seen in stream
+CVE-2017-16529: Fix not seen in stream
+CVE-2017-16530: Fix not seen in stream
+CVE-2017-16531: Fix not seen in stream
+CVE-2017-16532: Fix not seen in stream
+CVE-2017-16533: Fix not seen in stream
+CVE-2017-16534: Fix not seen in stream
+CVE-2017-16535: Fix not seen in stream
+CVE-2017-16536: Fix not seen in stream
+CVE-2017-16537: Fix not seen in stream
+CVE-2017-16538: Fix not seen in stream
+CVE-2017-16643: Fix not seen in stream
+CVE-2017-16644: Fix not seen in stream
+CVE-2017-16645: Fix not seen in stream
+CVE-2017-16646: Fix not seen in stream
+CVE-2017-16647: Fix not seen in stream
+CVE-2017-16649: Fix not seen in stream
+CVE-2017-16650: Fix not seen in stream
+CVE-2017-16911: Fix not seen in stream
+CVE-2017-16912: Fix not seen in stream
+CVE-2017-16913: Fix not seen in stream
+CVE-2017-16914: Fix not seen in stream
+CVE-2017-16939: Fix not seen in stream
+CVE-2017-16994: Fix not seen in stream
+CVE-2017-16995: Fix not seen in stream
+CVE-2017-17052: Fix not seen in stream
+CVE-2017-17053: Fix not seen in stream
+CVE-2017-17448: Fix not seen in stream
+CVE-2017-17449: Fix not seen in stream
+CVE-2017-17450: Fix not seen in stream
+CVE-2017-17558: Fix not seen in stream
+CVE-2017-17712: Fix not seen in stream
+CVE-2017-17741: Fix not seen in stream
+CVE-2017-17805: Fix not seen in stream
+CVE-2017-17806: Fix not seen in stream
+CVE-2017-17807: Fix not seen in stream
+CVE-2017-17862: Fix not seen in stream
+CVE-2017-17863: Fix not seen in stream
+CVE-2017-17975: Fix not seen in stream
+CVE-2017-18017: Fix not seen in stream
+CVE-2017-18075: Fix not seen in stream
+CVE-2017-18079: Fix not seen in stream
+CVE-2017-18193: Fix not seen in stream
+CVE-2017-18202: Fix not seen in stream
+CVE-2017-18203: Fix not seen in stream
+CVE-2017-18204: Fix not seen in stream
+CVE-2017-18208: Fix not seen in stream
+CVE-2017-18216: Fix not seen in stream
+CVE-2017-18218: Fix not seen in stream
+CVE-2017-18221: Fix not seen in stream
+CVE-2017-18222: Fix not seen in stream
+CVE-2017-18224: Fix not seen in stream
+CVE-2017-18232: Fix not seen in stream
+CVE-2017-18241: Fix not seen in stream
+CVE-2017-18249: Fix not seen in stream
+CVE-2017-18255: Fix not seen in stream
+CVE-2017-18257: Fix not seen in stream
+CVE-2017-18261: Fix not seen in stream
+CVE-2017-18270: Fix not seen in stream
+CVE-2017-18344: Fix not seen in stream
+CVE-2017-18360: Fix not seen in stream
+CVE-2017-18379: Fix not seen in stream
+CVE-2017-18509: Fix not seen in stream
+CVE-2017-18551: Fix not seen in stream
+CVE-2017-18595: Fix not seen in stream
+CVE-2017-2596: Fixed with 4.10.10
+CVE-2017-2636: Fixed with 4.10.3
+CVE-2017-2671: Fixed with 4.10.14
+CVE-2017-5669: Fixed with 4.10.2
+CVE-2017-5715: Fix not seen in stream
+CVE-2017-5753: Fix not seen in stream
+CVE-2017-5754: Fix not seen in stream
+CVE-2017-5967: Fix not seen in stream
+CVE-2017-6074: Fixed with 4.10
+CVE-2017-6345: Fixed with 4.10
+CVE-2017-6346: Fixed with 4.10
+CVE-2017-6347: Fixed with 4.10.1
+CVE-2017-6348: Fixed with 4.10
+CVE-2017-6353: Fixed with 4.10.5
+CVE-2017-6874: Fixed with 4.10.4
+CVE-2017-7184: Fixed with 4.10.8
+CVE-2017-7187: Fixed with 4.10.9
+CVE-2017-7261: Fixed with 4.10.10
+CVE-2017-7277: Fixed with 4.10.14
+CVE-2017-7294: Fixed with 4.10.10
+CVE-2017-7308: Fixed with 4.10.11
+CVE-2017-7346: Fix not seen in stream
+CVE-2017-7374: Fixed with 4.10.7
+CVE-2017-7472: Fixed with 4.10.13
+CVE-2017-7477: Fixed with 4.10.14
+CVE-2017-7482: Fix not seen in stream
+CVE-2017-7487: Fix not seen in stream
+CVE-2017-7518: Fix not seen in stream
+CVE-2017-7533: Fix not seen in stream
+CVE-2017-7541: Fix not seen in stream
+CVE-2017-7542: Fix not seen in stream
+CVE-2017-7558: Fix not seen in stream
+CVE-2017-7616: Fixed with 4.10.10
+CVE-2017-7618: Fixed with 4.10.12
+CVE-2017-7645: Fixed with 4.10.14
+CVE-2017-7889: Fixed with 4.10.12
+CVE-2017-7895: Fixed with 4.10.14
+CVE-2017-8061: Fixed with 4.10.7
+CVE-2017-8062: Fixed with 4.10.4
+CVE-2017-8063: Fixed with 4.10.12
+CVE-2017-8064: Fixed with 4.10.12
+CVE-2017-8065: Fix not seen in stream
+CVE-2017-8066: Fixed with 4.10.2
+CVE-2017-8067: Fixed with 4.10.12
+CVE-2017-8797: Fix not seen in stream
+CVE-2017-8824: Fix not seen in stream
+CVE-2017-8831: Fix not seen in stream
+CVE-2017-8890: Fix not seen in stream
+CVE-2017-8924: Fixed with 4.10.4
+CVE-2017-8925: Fixed with 4.10.4
+CVE-2017-9059: Fix not seen in stream
+CVE-2017-9074: Fix not seen in stream
+CVE-2017-9075: Fix not seen in stream
+CVE-2017-9076: Fix not seen in stream
+CVE-2017-9077: Fix not seen in stream
+CVE-2017-9150: Fixed with 4.10.16
+CVE-2017-9211: Fix not seen in stream
+CVE-2017-9242: Fix not seen in stream
+CVE-2017-9605: Fix not seen in stream
+CVE-2017-9984: Fix not seen in stream
+CVE-2017-9985: Fix not seen in stream
+CVE-2017-9986: Fix not seen in stream
+CVE-2018-1000004: Fix not seen in stream
+CVE-2018-1000026: Fix not seen in stream
+CVE-2018-1000028: Fix not seen in stream
+CVE-2018-1000199: Fix not seen in stream
+CVE-2018-1000204: Fix not seen in stream
+CVE-2018-10021: Fix not seen in stream
+CVE-2018-10087: Fix not seen in stream
+CVE-2018-10124: Fix not seen in stream
+CVE-2018-10322: Fix not seen in stream
+CVE-2018-10323: Fix not seen in stream
+CVE-2018-1065: Fix not seen in stream
+CVE-2018-1066: Fix not seen in stream
+CVE-2018-10675: Fix not seen in stream
+CVE-2018-1068: Fix not seen in stream
+CVE-2018-10853: Fix not seen in stream
+CVE-2018-1087: Fix not seen in stream
+CVE-2018-10876: Fix not seen in stream
+CVE-2018-10877: Fix not seen in stream
+CVE-2018-10878: Fix not seen in stream
+CVE-2018-10879: Fix not seen in stream
+CVE-2018-10880: Fix not seen in stream
+CVE-2018-10881: Fix not seen in stream
+CVE-2018-10882: Fix not seen in stream
+CVE-2018-10883: Fix not seen in stream
+CVE-2018-10902: Fix not seen in stream
+CVE-2018-1092: Fix not seen in stream
+CVE-2018-1093: Fix not seen in stream
+CVE-2018-10938: Fix not seen in stream
+CVE-2018-10940: Fix not seen in stream
+CVE-2018-1108: Fix not seen in stream
+CVE-2018-1118: Fix not seen in stream
+CVE-2018-1120: Fix not seen in stream
+CVE-2018-1121: Fix unknown
+CVE-2018-11232: Fixed with 4.10.2
+CVE-2018-1128: Fix not seen in stream
+CVE-2018-1129: Fix not seen in stream
+CVE-2018-1130: Fix not seen in stream
+CVE-2018-12126: Fix not seen in stream
+CVE-2018-12127: Fix not seen in stream
+CVE-2018-12130: Fix not seen in stream
+CVE-2018-12207: Fix not seen in stream
+CVE-2018-12232: Fix not seen in stream
+CVE-2018-12233: Fix not seen in stream
+CVE-2018-12896: Fix not seen in stream
+CVE-2018-12928: Fix unknown
+CVE-2018-12929: Fix unknown
+CVE-2018-12930: Fix unknown
+CVE-2018-12931: Fix unknown
+CVE-2018-13053: Fix not seen in stream
+CVE-2018-13093: Fix not seen in stream
+CVE-2018-13094: Fix not seen in stream
+CVE-2018-13095: Fix not seen in stream
+CVE-2018-13096: Fix not seen in stream
+CVE-2018-13097: Fix not seen in stream
+CVE-2018-13098: Fix not seen in stream
+CVE-2018-13099: Fix not seen in stream
+CVE-2018-13100: Fix not seen in stream
+CVE-2018-13405: Fix not seen in stream
+CVE-2018-13406: Fix not seen in stream
+CVE-2018-14609: Fix not seen in stream
+CVE-2018-14610: Fix not seen in stream
+CVE-2018-14611: Fix not seen in stream
+CVE-2018-14612: Fix not seen in stream
+CVE-2018-14613: Fix not seen in stream
+CVE-2018-14614: Fix not seen in stream
+CVE-2018-14616: Fix not seen in stream
+CVE-2018-14617: Fix not seen in stream
+CVE-2018-14625: Fix not seen in stream
+CVE-2018-14633: Fix not seen in stream
+CVE-2018-14634: Fix not seen in stream
+CVE-2018-14734: Fix not seen in stream
+CVE-2018-15471: Fix not seen in stream
+CVE-2018-15572: Fix not seen in stream
+CVE-2018-16276: Fix not seen in stream
+CVE-2018-16658: Fix not seen in stream
+CVE-2018-16862: Fix not seen in stream
+CVE-2018-16871: Fix not seen in stream
+CVE-2018-16884: Fix not seen in stream
+CVE-2018-17182: Fix not seen in stream
+CVE-2018-17972: Fix not seen in stream
+CVE-2018-17977: Fix unknown
+CVE-2018-18021: Fix not seen in stream
+CVE-2018-18281: Fix not seen in stream
+CVE-2018-18386: Fix not seen in stream
+CVE-2018-18559: Fix not seen in stream
+CVE-2018-18690: Fix not seen in stream
+CVE-2018-18710: Fix not seen in stream
+CVE-2018-19407: Fix not seen in stream
+CVE-2018-19824: Fix not seen in stream
+CVE-2018-19985: Fix not seen in stream
+CVE-2018-20169: Fix not seen in stream
+CVE-2018-20449: Fix not seen in stream
+CVE-2018-20509: Fix not seen in stream
+CVE-2018-20510: Fix not seen in stream
+CVE-2018-20511: Fix not seen in stream
+CVE-2018-20836: Fix not seen in stream
+CVE-2018-20855: Fix not seen in stream
+CVE-2018-20856: Fix not seen in stream
+CVE-2018-20961: Fix not seen in stream
+CVE-2018-20976: Fix not seen in stream
+CVE-2018-21008: Fix not seen in stream
+CVE-2018-3620: Fix not seen in stream
+CVE-2018-3639: Fix not seen in stream
+CVE-2018-3646: Fix not seen in stream
+CVE-2018-3693: Fix not seen in stream
+CVE-2018-5332: Fix not seen in stream
+CVE-2018-5333: Fix not seen in stream
+CVE-2018-5344: Fix not seen in stream
+CVE-2018-5390: Fix not seen in stream
+CVE-2018-5391: Fix not seen in stream
+CVE-2018-5750: Fix not seen in stream
+CVE-2018-5803: Fix not seen in stream
+CVE-2018-5814: Fix not seen in stream
+CVE-2018-5848: Fix not seen in stream
+CVE-2018-5873: Fix not seen in stream
+CVE-2018-5953: Fix not seen in stream
+CVE-2018-5995: Fix not seen in stream
+CVE-2018-6412: Fix not seen in stream
+CVE-2018-6554: Fix not seen in stream
+CVE-2018-6555: Fix not seen in stream
+CVE-2018-6927: Fix not seen in stream
+CVE-2018-7191: Fix not seen in stream
+CVE-2018-7273: Fix not seen in stream
+CVE-2018-7480: Fix not seen in stream
+CVE-2018-7492: Fix not seen in stream
+CVE-2018-7566: Fix not seen in stream
+CVE-2018-7754: Fix not seen in stream
+CVE-2018-7755: Fix not seen in stream
+CVE-2018-7757: Fix not seen in stream
+CVE-2018-7995: Fix not seen in stream
+CVE-2018-8043: Fix not seen in stream
+CVE-2018-8781: Fix not seen in stream
+CVE-2018-8822: Fix not seen in stream
+CVE-2018-8897: Fix not seen in stream
+CVE-2018-9363: Fix not seen in stream
+CVE-2018-9385: Fix not seen in stream
+CVE-2018-9415: Fix not seen in stream
+CVE-2018-9465: Fix not seen in stream
+CVE-2018-9516: Fix not seen in stream
+CVE-2018-9517: Fix not seen in stream
+CVE-2018-9518: Fix not seen in stream
+CVE-2018-9568: Fix not seen in stream
+CVE-2019-0136: Fix not seen in stream
+CVE-2019-0154: Fix not seen in stream
+CVE-2019-0155: Fix not seen in stream
+CVE-2019-10124: Fix not seen in stream
+CVE-2019-10126: Fix not seen in stream
+CVE-2019-10142: Fix not seen in stream
+CVE-2019-10207: Fix not seen in stream
+CVE-2019-10220: Fix not seen in stream
+CVE-2019-10638: Fix not seen in stream
+CVE-2019-10639: Fix not seen in stream
+CVE-2019-11085: Fix not seen in stream
+CVE-2019-11091: Fix not seen in stream
+CVE-2019-11135: Fix not seen in stream
+CVE-2019-11191: Fix not seen in stream
+CVE-2019-1125: Fix not seen in stream
+CVE-2019-11477: Fix not seen in stream
+CVE-2019-11478: Fix not seen in stream
+CVE-2019-11479: Fix not seen in stream
+CVE-2019-11486: Fix not seen in stream
+CVE-2019-11487: Fix not seen in stream
+CVE-2019-11599: Fix not seen in stream
+CVE-2019-11810: Fix not seen in stream
+CVE-2019-11815: Fix not seen in stream
+CVE-2019-11833: Fix not seen in stream
+CVE-2019-11884: Fix not seen in stream
+CVE-2019-12378: Fix not seen in stream
+CVE-2019-12379: Fix not seen in stream
+CVE-2019-12380: Fix not seen in stream
+CVE-2019-12381: Fix not seen in stream
+CVE-2019-12382: Fix not seen in stream
+CVE-2019-12455: Fix not seen in stream
+CVE-2019-12456: Fix unknown
+CVE-2019-12614: Fix not seen in stream
+CVE-2019-12615: Fix not seen in stream
+CVE-2019-12818: Fix not seen in stream
+CVE-2019-12819: Fix not seen in stream
+CVE-2019-12881: Fix unknown
+CVE-2019-13272: Fix not seen in stream
+CVE-2019-13631: Fix not seen in stream
+CVE-2019-13648: Fix not seen in stream
+CVE-2019-14283: Fix not seen in stream
+CVE-2019-14284: Fix not seen in stream
+CVE-2019-14615: Fix not seen in stream
+CVE-2019-14814: Fix not seen in stream
+CVE-2019-14815: Fix not seen in stream
+CVE-2019-14816: Fix not seen in stream
+CVE-2019-14821: Fix not seen in stream
+CVE-2019-14835: Fix not seen in stream
+CVE-2019-14895: Fix not seen in stream
+CVE-2019-14896: Fix not seen in stream
+CVE-2019-14897: Fix not seen in stream
+CVE-2019-14898: Fix unknown
+CVE-2019-14901: Fix not seen in stream
+CVE-2019-15090: Fix not seen in stream
+CVE-2019-15098: Fix not seen in stream
+CVE-2019-15117: Fix not seen in stream
+CVE-2019-15118: Fix not seen in stream
+CVE-2019-15211: Fix not seen in stream
+CVE-2019-15212: Fix not seen in stream
+CVE-2019-15214: Fix not seen in stream
+CVE-2019-15215: Fix not seen in stream
+CVE-2019-15216: Fix not seen in stream
+CVE-2019-15217: Fix not seen in stream
+CVE-2019-15218: Fix not seen in stream
+CVE-2019-15219: Fix not seen in stream
+CVE-2019-15220: Fix not seen in stream
+CVE-2019-15221: Fix not seen in stream
+CVE-2019-15222: Fix not seen in stream
+CVE-2019-15223: Fix not seen in stream
+CVE-2019-15239: Fix not seen in stream
+CVE-2019-15290: Fix unknown
+CVE-2019-15291: Fix not seen in stream
+CVE-2019-15292: Fix not seen in stream
+CVE-2019-15505: Fix not seen in stream
+CVE-2019-15538: Fix not seen in stream
+CVE-2019-15666: Fix not seen in stream
+CVE-2019-15807: Fix not seen in stream
+CVE-2019-15902: Fix unknown
+CVE-2019-15916: Fix not seen in stream
+CVE-2019-15917: Fix not seen in stream
+CVE-2019-15921: Fix not seen in stream
+CVE-2019-15924: Fix not seen in stream
+CVE-2019-15926: Fix not seen in stream
+CVE-2019-15927: Fix not seen in stream
+CVE-2019-16230: Fix not seen in stream
+CVE-2019-16231: Fix not seen in stream
+CVE-2019-16232: Fix not seen in stream
+CVE-2019-16233: Fix not seen in stream
+CVE-2019-16234: Fix not seen in stream
+CVE-2019-16413: Fix not seen in stream
+CVE-2019-16746: Fix not seen in stream
+CVE-2019-16995: Fix not seen in stream
+CVE-2019-17052: Fix not seen in stream
+CVE-2019-17053: Fix not seen in stream
+CVE-2019-17054: Fix not seen in stream
+CVE-2019-17055: Fix not seen in stream
+CVE-2019-17056: Fix not seen in stream
+CVE-2019-17075: Fix not seen in stream
+CVE-2019-17133: Fix not seen in stream
+CVE-2019-17351: Fix not seen in stream
+CVE-2019-17666: Fix not seen in stream
+CVE-2019-18282: Fix not seen in stream
+CVE-2019-18660: Fix not seen in stream
+CVE-2019-18675: Fix not seen in stream
+CVE-2019-18680: Fix unknown
+CVE-2019-18683: Fix not seen in stream
+CVE-2019-18806: Fix not seen in stream
+CVE-2019-18808: Fix not seen in stream
+CVE-2019-18809: Fix not seen in stream
+CVE-2019-18885: Fix not seen in stream
+CVE-2019-19036: Fix unknown
+CVE-2019-19037: Fix not seen in stream
+CVE-2019-19039: Fix unknown
+CVE-2019-19049: Fix not seen in stream
+CVE-2019-19052: Fix not seen in stream
+CVE-2019-19054: Fix not seen in stream
+CVE-2019-19056: Fix not seen in stream
+CVE-2019-19057: Fix not seen in stream
+CVE-2019-19058: Fix not seen in stream
+CVE-2019-19060: Fix not seen in stream
+CVE-2019-19061: Fix not seen in stream
+CVE-2019-19062: Fix not seen in stream
+CVE-2019-19063: Fix not seen in stream
+CVE-2019-19066: Fix not seen in stream
+CVE-2019-19067: Fix not seen in stream
+CVE-2019-19068: Fix not seen in stream
+CVE-2019-19073: Fix not seen in stream
+CVE-2019-19074: Fix not seen in stream
+CVE-2019-19227: Fix not seen in stream
+CVE-2019-19318: Fix unknown
+CVE-2019-19319: Fix unknown
+CVE-2019-19332: Fix not seen in stream
+CVE-2019-19377: Fix unknown
+CVE-2019-19378: Fix unknown
+CVE-2019-19447: Fix not seen in stream
+CVE-2019-19448: Fix unknown
+CVE-2019-19449: Fix unknown
+CVE-2019-19462: Fix unknown
+CVE-2019-19523: Fix not seen in stream
+CVE-2019-19524: Fix not seen in stream
+CVE-2019-19525: Fix not seen in stream
+CVE-2019-19527: Fix not seen in stream
+CVE-2019-19528: Fix not seen in stream
+CVE-2019-19530: Fix not seen in stream
+CVE-2019-19531: Fix not seen in stream
+CVE-2019-19532: Fix not seen in stream
+CVE-2019-19533: Fix not seen in stream
+CVE-2019-19534: Fix not seen in stream
+CVE-2019-19535: Fix not seen in stream
+CVE-2019-19536: Fix not seen in stream
+CVE-2019-19537: Fix not seen in stream
+CVE-2019-19543: Fix not seen in stream
+CVE-2019-19768: Fix unknown
+CVE-2019-19769: Fix unknown
+CVE-2019-19770: Fix unknown
+CVE-2019-19813: Fix unknown
+CVE-2019-19814: Fix unknown
+CVE-2019-19815: Fix not seen in stream
+CVE-2019-19816: Fix unknown
+CVE-2019-19965: Fix not seen in stream
+CVE-2019-19966: Fix not seen in stream
+CVE-2019-1999: Fix not seen in stream
+CVE-2019-20054: Fix not seen in stream
+CVE-2019-20095: Fix not seen in stream
+CVE-2019-20096: Fix not seen in stream
+CVE-2019-2024: Fix not seen in stream
+CVE-2019-2025: Fix not seen in stream
+CVE-2019-2101: Fix not seen in stream
+CVE-2019-2181: Fix not seen in stream
+CVE-2019-2182: Fix not seen in stream
+CVE-2019-2213: Fix not seen in stream
+CVE-2019-2215: Fix not seen in stream
+CVE-2019-3016: Fix not seen in stream
+CVE-2019-3459: Fix not seen in stream
+CVE-2019-3460: Fix not seen in stream
+CVE-2019-3701: Fix not seen in stream
+CVE-2019-3846: Fix not seen in stream
+CVE-2019-3874: Fix not seen in stream
+CVE-2019-3882: Fix not seen in stream
+CVE-2019-3892: Fix not seen in stream
+CVE-2019-3900: Fix not seen in stream
+CVE-2019-5108: Fix not seen in stream
+CVE-2019-5489: Fix not seen in stream
+CVE-2019-6133: Fix not seen in stream
+CVE-2019-6974: Fix not seen in stream
+CVE-2019-7221: Fix not seen in stream
+CVE-2019-7222: Fix not seen in stream
+CVE-2019-7308: Fix not seen in stream
+CVE-2019-8912: Fix not seen in stream
+CVE-2019-8980: Fix not seen in stream
+CVE-2019-9213: Fix not seen in stream
+CVE-2019-9444: Fix not seen in stream
+CVE-2019-9445: Fix not seen in stream
+CVE-2019-9453: Fix not seen in stream
+CVE-2019-9454: Fix not seen in stream
+CVE-2019-9455: Fix not seen in stream
+CVE-2019-9456: Fix not seen in stream
+CVE-2019-9457: Fix not seen in stream
+CVE-2019-9458: Fix not seen in stream
+CVE-2019-9466: Fix not seen in stream
+CVE-2019-9500: Fix not seen in stream
+CVE-2019-9503: Fix not seen in stream
+CVE-2019-9506: Fix not seen in stream
+CVE-2020-0009: Fix unknown
